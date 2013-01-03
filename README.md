@@ -7,7 +7,7 @@ Should run on OS X. However, this is untested.
 
 This was mainly created as a small project because I was bored.
 
-![Screenshot](HexaMine.png)
+![Screenshot](https://raw.github.com/ebbes/HexaMine/master/HexaMine.png)
 
 This has no explicit license, as long as you do not sell my code, I am totally fine.
 Have fun!
