@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hexagon.cs">
+    <Files>
+      <File FileName="MainWindow.cs" Line="99" Column="5" />
+      <File FileName="Difficulty.cs" Line="26" Column="55" />
+      <File FileName="HexagonController.cs" Line="1" Column="1" />
+      <File FileName="Hexagon.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
